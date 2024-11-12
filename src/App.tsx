@@ -81,7 +81,7 @@ function App() {
             <InfoIcon className="w-6 h-6 text-gray-400 hover:text-white" />
           </button>
           <a
-            href="https://github.com"
+            href="https://github.com/serkan-uslu/spotifinder"
             className="text-gray-400 hover:text-white transition-colors"
             target="_blank"
             rel="noopener noreferrer"
