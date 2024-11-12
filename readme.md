@@ -16,7 +16,7 @@ Spotifinder is a music discovery app that helps you find new songs and artists b
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/spotifinder.git
+    git clone https://github.com/serkan-uslu/spotifinder.git
     ```
 2. Navigate to the project directory:
     ```bash
