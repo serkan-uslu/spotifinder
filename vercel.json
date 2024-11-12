@@ -1,0 +1,10 @@
+{
+    "redirects": [
+      {
+        "source": "/callback",
+        "destination": "/",
+        "permanent": true
+      }
+    ]
+  }
+  
